@@ -3,46 +3,46 @@ The **Composer** on the far right leverages **AI** to interact with and orchestr
 ---
 
 ### **1. Enterprise Insights Layer**  
-   **Problem Solved: Simplified Insights and Decision Making**  
-   - Enterprises struggle to make sense of vast and complex 5G data—performance metrics, SLAs, user experience, and cost.  
-   - **AI Solution**:  
-     - Automates **data analysis** to extract actionable insights from complex network metrics.  
-     - Uses predictive analytics to forecast network performance issues, identify cost optimization opportunities, and ensure SLA adherence.  
-     - Simplifies insights into clear recommendations for **business leaders**, aligning services with enterprise goals.  
-   - **Outcome**: Enterprises gain smarter, faster decision-making capabilities without requiring deep technical expertise.
+**Problem Solved: Simplified Insights and Decision Making**  
+- Enterprises struggle to make sense of vast and complex 5G data—performance metrics, SLAs, user experience, and cost.  
+- **AI Solution**:  
+    - Automates **data analysis** to extract actionable insights from complex network metrics.  
+    - Uses predictive analytics to forecast network performance issues, identify cost optimization opportunities, and ensure SLA adherence.  
+    - Simplifies insights into clear recommendations for **business leaders**, aligning services with enterprise goals.  
+- **Outcome**: Enterprises gain smarter, faster decision-making capabilities without requiring deep technical expertise.
 
 ---
 
 ### **2. Developer Hub Layer**  
-   **Problem Solved: Streamlined Developer Performance and Integration**  
-   - Developers often face difficulties optimizing performance, debugging integrations, and understanding network behavior.  
-   - **AI Solution**:  
-     - Provides **real-time performance insights** and recommendations, helping developers optimize applications running on the 5G network.  
-     - AI-driven anomaly detection identifies and fixes integration issues before they escalate.  
-     - Generates **developer insights** to improve API consumption, resource usage, and application scalability.  
-   - **Outcome**: Developers spend less time troubleshooting and more time building and innovating, leading to higher productivity and better-performing applications.
+**Problem Solved: Streamlined Developer Performance and Integration**  
+- Developers often face difficulties optimizing performance, debugging integrations, and understanding network behavior.  
+- **AI Solution**:  
+    - Provides **real-time performance insights** and recommendations, helping developers optimize applications running on the 5G network.  
+    - AI-driven anomaly detection identifies and fixes integration issues before they escalate.  
+    - Generates **developer insights** to improve API consumption, resource usage, and application scalability.  
+- **Outcome**: Developers spend less time troubleshooting and more time building and innovating, leading to higher productivity and better-performing applications.
 
 ---
 
 ### **3. Operations Layer**  
-   **Problem Solved: Intelligent Network Orchestration and Automation**  
-   - Operations teams face the challenge of managing complex, dynamic 5G networks while maintaining reliability and performance.  
-   - **AI Solution**:  
-     - Automates **network slicing**, resource optimization, and anomaly detection, reducing manual intervention.  
-     - Uses AI-driven models to predict traffic flows, network congestion, and resource utilization.  
-     - Provides dynamic insights and recommendations for improving **network efficiency** and responding to anomalies in real time.  
-   - **Outcome**: Operations teams gain a proactive, automated solution for managing 5G networks, ensuring high reliability and minimal downtime.
+**Problem Solved: Intelligent Network Orchestration and Automation**  
+- Operations teams face the challenge of managing complex, dynamic 5G networks while maintaining reliability and performance.  
+- **AI Solution**:  
+    - Automates **network slicing**, resource optimization, and anomaly detection, reducing manual intervention.  
+    - Uses AI-driven models to predict traffic flows, network congestion, and resource utilization.  
+    - Provides dynamic insights and recommendations for improving **network efficiency** and responding to anomalies in real time.  
+- **Outcome**: Operations teams gain a proactive, automated solution for managing 5G networks, ensuring high reliability and minimal downtime.
 
 ---
 
 ### **4. Telco Product Design Layer**  
-   **Problem Solved: Faster, Insight-Driven Service Design**  
-   - Product designers struggle to align service designs with real-world performance, enterprise needs, and developer expectations.  
-   - **AI Solution**:  
-     - Uses insights from the **other three layers** (Enterprise, Developers, and Ops) to provide real-time feedback and recommendations for service customization.  
-     - Leverages predictive AI to test new network slices and services before deployment, optimizing QoS (Quality of Service).  
-     - Generates actionable feedback loops between design, operations, and end-users, enabling faster iterations.  
-   - **Outcome**: Telco teams design services that are smarter, faster to deploy, and perfectly aligned with customer and operational demands.
+**Problem Solved: Faster, Insight-Driven Service Design**  
+- Product designers struggle to align service designs with real-world performance, enterprise needs, and developer expectations.  
+- **AI Solution**:  
+    - Uses insights from the **other three layers** (Enterprise, Developers, and Ops) to provide real-time feedback and recommendations for service customization.  
+    - Leverages predictive AI to test new network slices and services before deployment, optimizing QoS (Quality of Service).  
+    - Generates actionable feedback loops between design, operations, and end-users, enabling faster iterations.  
+- **Outcome**: Telco teams design services that are smarter, faster to deploy, and perfectly aligned with customer and operational demands.
 
 ---
 
